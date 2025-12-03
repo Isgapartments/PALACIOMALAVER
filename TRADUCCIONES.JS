@@ -1,7 +1,7 @@
 // Diccionario de traducciones para index.html, torre5.html y torre6.html
 const translations = {
   es: {
-    "header": "ISG AVENIDA CONSITUCION 34",
+    "header": "ISG PALACIO MALAVER 23",
     "welcome-msg": "BIENVENIDOS A VUESTRO APARTMENTO, AQUI ENCONTRAR LOS VIDEOS EXPLICATIVOS DEL USO DE ELECTRODOMESTICOS",
     "apartmentI": "APARTAMENTO I",
     "apartmentII": "APARTAMENTO II",
@@ -16,7 +16,7 @@ const translations = {
     "hob-es": "En este video os mostramos como usar nuestra vitroceramica."
   },
   en: {
-    "header": "ISG AVENUE CONSTITUTION 34",
+    "header": "ISG PALACIO MALAVER 23",
     "welcome-msg": "WELCOME TO YOUR APARTMENT, HERE YOU CAN FIND VIDEOS EXPLANATORY OF HOW TO USE APPLIANCES.",
     "apartmentI": "APARTAMENTO I",
     "apartmentII": "APARTAMENTO II",
@@ -31,7 +31,7 @@ const translations = {
     "hob-es": "In this video we show you how to use our electric hob."
   },
   fr: {
-    "header": "ISG AVENUE CONSTITUTION 34",
+    "header": "ISG PALACIO MALAVER 23",
     "welcome-msg": "BIENVENUE DANS VOTRE APPARTEMENT, VOUS TROUVEREZ ICI DES VIDÉOS EXPLICATIVES SUR L'UTILISATION DES APPAREILS",
     "apartmentI": "APARTAMENTO I",
     "apartmentII": "APARTAMENTO II",
