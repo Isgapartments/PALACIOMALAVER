@@ -150,6 +150,7 @@ header.page-nav {
   .tab-link { width: 97vw; padding: 13px 0; font-size: 1.07em; }
   .page-header-inner h1 { font-size: 1.10em; }
 }
+/*APARTIR DE AQUI PARA FULL SCREEN PHONE 
 /* GLOBAL STYLES - Elimina márgenes/padding en navegador */
 html, body {
     margin: 0;
